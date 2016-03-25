@@ -1,0 +1,73 @@
+﻿生成启动时间为 2015-10-20 02:54:55。
+     1>项目“D:\04Clock\04Clock.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\ruanjian\vs_program\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Clock.cpp
+         Clock.cpp
+     1>d:\04clock\clock.cpp(478): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\04clock\clock.cpp(479): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\04clock\clock.cpp(480): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\04clock\clock.cpp(481): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\04clock\clock.cpp(482): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\04clock\clock.cpp(483): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\04clock\clock.cpp(484): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\04clock\clock.cpp(485): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\04clock\clock.cpp(499): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\04clock\clock.cpp(593): warning C4996: '_gcvt': This function or variable may be unsafe. Consider using _gcvt_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\stdlib.h(786) : 参见“_gcvt”的声明
+     1>d:\04clock\clock.cpp(599): warning C4996: '_gcvt': This function or variable may be unsafe. Consider using _gcvt_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\stdlib.h(786) : 参见“_gcvt”的声明
+     1>d:\04clock\clock.cpp(604): warning C4996: '_gcvt': This function or variable may be unsafe. Consider using _gcvt_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\stdlib.h(786) : 参见“_gcvt”的声明
+     1>d:\04clock\clock.cpp(610): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(611): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(612): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(613): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(626): warning C4996: '_gcvt': This function or variable may be unsafe. Consider using _gcvt_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\stdlib.h(786) : 参见“_gcvt”的声明
+     1>d:\04clock\clock.cpp(631): warning C4996: '_gcvt': This function or variable may be unsafe. Consider using _gcvt_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\stdlib.h(786) : 参见“_gcvt”的声明
+     1>d:\04clock\clock.cpp(636): warning C4996: '_gcvt': This function or variable may be unsafe. Consider using _gcvt_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\stdlib.h(786) : 参见“_gcvt”的声明
+     1>d:\04clock\clock.cpp(642): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(643): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(644): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(645): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(646): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(647): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(654): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(655): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(659): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(662): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(665): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(668): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(671): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(674): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\04clock\clock.cpp(677): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ruanjian\vs_program\vc\include\string.h(118) : 参见“strcat”的声明
+       Link:
+         F:\ruanjian\vs_program\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\04Clock.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug\04Clock.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\04Clock.lib" /MACHINE:X86 /SAFESEH .\Debug\Clock.res
+         .\Debug\Clock.obj
+         04Clock.vcxproj -> D:\04Clock\.\Debug\04Clock.exe
+     1>已完成生成项目“D:\04Clock\04Clock.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.34
